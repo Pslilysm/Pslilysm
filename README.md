@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pslilysm
+- 👋 Hi, I’m @pslilysm
 - 👀 I’m interested in mmmmmmmmmmmmmoney
 - 🌱 I’m currently learning java-juc, db, spring.
 - 💞️ I’m looking to collaborate on nnnnnnnnnnnnnothing.
