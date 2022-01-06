@@ -2,7 +2,7 @@
 - 👀 I’m interested in mmmmmmmmmmmmmoney
 - 🌱 I’m currently learning java-juc, db, spring.
 - 💞️ I’m looking to collaborate on nnnnnnnnnnnnnothing.
-- 📫 How to reach me, emmmmmmmm.......... call: +8617872341242
+- 📫 How to reach me, emmmmmmmm.......... add my wechat: fyhdsb0127
 
 <!---
 Pslilysm/Pslilysm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
